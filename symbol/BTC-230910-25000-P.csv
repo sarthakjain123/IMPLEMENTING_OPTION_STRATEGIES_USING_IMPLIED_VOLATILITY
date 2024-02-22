@@ -1,0 +1,4 @@
+date,hour,symbol,underlying,type,strike,open,high,low,close,volume_contracts,volume_usdt,best_bid_price,best_ask_price,best_bid_qty,best_ask_qty,best_buy_iv,best_sell_iv,mark_price,mark_iv,delta,gamma,vega,theta,openinterest_contracts,openinterest_usdt
+2023-09-07,8,BTC-230910-25000-P,BTCUSDT,P,230910-25000,0.0,0.0,0.0,0.0,0.0,0.0,70.0,75.0,4.98,5.07,,0.34905136,72.0,0.34475446,-0.16788246,0.00031414,5.81834157,-33.90238889,0.0,0.0
+2023-09-07,10,BTC-230910-25000-P,BTCUSDT,P,230910-25000,0.0,0.0,0.0,0.0,0.0,0.0,70.0,75.0,5.07,6.61,,0.34751475,72.0,0.34320176,-0.17019333,0.00032234,5.79689829,-34.42327065,0.0,0.0
+2023-09-07,9,BTC-230910-25000-P,BTCUSDT,P,230910-25000,0.0,0.0,0.0,0.0,0.0,0.0,70.0,75.0,4.98,5.11,,0.34878731,72.0,0.3444764,-0.16900274,0.0003181,5.79986719,-34.24987633,0.0,0.0
