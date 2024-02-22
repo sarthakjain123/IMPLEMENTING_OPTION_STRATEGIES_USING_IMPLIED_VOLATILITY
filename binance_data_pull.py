@@ -5,7 +5,7 @@ base_api_url = "https://www.binance.com/en/eoptions/BTCUSDT?symbol=BTC-231014-26
 
 # Pass an API key in headers
 headers = {
-    'X-MBX-APIKEY': 'q5OpDbcs15GWlY23sAuAJWavrkvziGGTl0LTgdUiWOCK5HaoDBkyCvLzACuQpryG'
+    'X-MBX-APIKEY': 'add your api key here'
 }
 parameters = {     
     "symbol" : "BTC-231014-26500-C",
